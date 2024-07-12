@@ -1,0 +1,78 @@
+IMAGE CREDITS / LICENSES
+========================
+
+All files are under images/ directory, images resized to be more suitable for
+web use and other than the logo. Only image12_logo was edited.
+
+image1_1024-1f5.jpg
+-------------------
+
+Keven Law, 2008
+CC-SA 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+https://en.wikipedia.org/wiki/File:Felis_manul_-Howletts_Wild_Animal_Park_-8.jpg
+
+image2_1024-1f5.jpg
+-------------------
+
+Gitanes232, 2018
+CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+https://en.wikipedia.org/wiki/Pallas%27s_cat#/media/File:2018-Manul01.jpg
+
+image4_1024-1f5.jpg
+-------------------
+
+AuroraEnt, 2019
+Pixabay Content License (https://pixabay.com/service/license-summary/)
+https://pixabay.com/photos/pallas-cat-mongolia-eyes-wildlife-3963081/
+
+image5_1024-1f5.jpg
+-------------------
+
+Dominik Rheinheimer (DominikRh), 2021
+Pixabay Content License (https://pixabay.com/service/license-summary/)
+https://pixabay.com/photos/manul-wildcat-animal-pallas-cat-6483407/
+
+image6_1024-1f5.jpg
+-------------------
+
+Jevgeni Fil (Jecqan), 2022
+Pixabay Content License (https://pixabay.com/service/license-summary/)
+https://pixabay.com/photos/pallass-cat-cat-feline-manul-7570249/
+
+image8_1024-1f5.jpg
+-------------------
+
+Emmanuel Keller (Tambako The Jaguar), 2010
+CC BY-ND 2.0 (https://creativecommons.org/licenses/by-nd/2.0/)
+https://www.flickr.com/photos/tambako/5100023456
+
+image9_683-0f67.jpg
+-------------------
+
+Emmanuel Keller (Tambako The Jaguar), 2010
+CC BY-ND 2.0 (https://creativecommons.org/licenses/by-nd/2.0/)
+https://flic.kr/p/p3M5VQ
+
+image10_1024-1f5.jpg
+--------------------
+
+Emmanuel Keller (Tambako The Jaguar), 2010
+CC BY-ND 2.0 (https://creativecommons.org/licenses/by-nd/2.0/)
+https://flic.kr/p/nbpPC6
+
+image12_logo_400.jpg
+--------------------
+
+(local edits done by me)
+Paul J Becker (Becker1999), 2008
+CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/deed.en)
+https://openverse.org/image/17776026-7116-431e-9b5d-4ff0cd69414d?q=pallas%20cat
+
+image13_1024x463.jpg
+--------------------
+
+Tinarova, 2018
+CC-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%B0%D1%82%D0%BE_%D0%A3%D0%BA%D0%BE%D0%BA,_%D0%B2_%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%B5_%D0%B2%D0%B8%D0%B4%D0%BD%D0%B5%D0%B5%D1%82%D1%81%D1%8F_%D0%A2%D0%B0%D0%B1%D1%8B%D0%BD_%D0%91%D0%BE%D0%B3%D0%B4%D0%BE_%D0%9E%D0%BB%D0%B0.jpg
+
+
